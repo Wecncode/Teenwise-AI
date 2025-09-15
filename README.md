@@ -33,3 +33,8 @@ That’s where **Teenwise-AI** comes in: a smart, interactive, and empathetic pl
 
 ---
 
+## Team building Teenwise
+⭐ Maanda Phidane
+⭐ Lebogang Machethe
+
+---
