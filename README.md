@@ -17,19 +17,19 @@ That’s where **Teenwise-AI** comes in: a smart, interactive, and empathetic pl
 
 ---
 
-## 🧑‍🤝‍🧑 Who is it for?
+## Who is it for?
 - Teens dealing with **anxiety** & **depression**  
 - Young people vulnerable to **teenage pregnancy risks** 
 - Schools, communities & parents looking for **digital wellness tools** 
 
 ---
 
-## ⚡ Features at a Glance
-✅ 🤖 **AI Chatbot** – Real-time support & safe space  
-✅ 🧑‍⚕️ **Connect with Psychologists** – Guided help when needed  
-✅ ⏰ **Daily Reminders** – Gentle nudges for self-care  
-✅ 📊 **Adaptive Progress Bar** – See your growth visually  
-✅ 🎮 **Gamification** – Rewards, badges, and fun challenges  
+## Features at a Glance
+✅ **AI Chatbot** – Real-time support & safe space  
+✅ **Connect with Psychologists** – Guided help when needed  
+✅ **Daily Reminders** – Gentle nudges for self-care  
+✅ **Adaptive Progress Bar** – See your growth visually  
+✅ **Gamification** – Rewards, badges, and fun challenges  
 
 ---
 
